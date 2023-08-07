@@ -1,0 +1,22 @@
+.inputBox {
+    width: 40vw;
+    margin: auto;
+    margin-top: 3vw;
+}
+
+.saveList {
+    width: 40vw;
+    height: 3vw;
+    background-color: rgb(225, 143, 143);
+    margin: auto;
+    margin-bottom: 1vw;
+    font-weight: bold;
+    border-radius: 1vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.saveList:hover {
+    background-color: aliceblue;
+}
